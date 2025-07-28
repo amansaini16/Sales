@@ -30,7 +30,7 @@ Profit Trend: Highlights changes in profit over time.
 Customer Table: Lists detailed information about customers, including profit margins and normalized amounts.
 Revenue Distribution by Market: Shows the percentage split between E-Commerce and Brick & Mortar sales.
 <img width="1266" height="647" alt="image" src="https://github.com/user-attachments/assets/fbfe227e-83fd-4108-b6f3-685df0e85fb0" />
-echnology Stack 🛠
+Technology Stack 🛠
 PostgreSQL: Used to store and manage the integrated data from the CSV files.
 Tableau: For creating interactive dashboards and visualizations.
 
